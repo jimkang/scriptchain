@@ -3,6 +3,13 @@ scriptchain
 
 This is a helper for Chrome extensions that injects a chain of JavaScript files into a content page in sequence. It's only for Chrome extensions and is not a Node module; it's in NPM just for convenience.
 
+Installation
+------------
+
+Copy scriptchain.js out of the repo or:
+
+    npm install scriptchain --save
+
 Usage
 -----
 
