@@ -18,6 +18,13 @@ Example Chrome extension background.js:
       scriptchain.loadChain();
     });
 
+Background section of the manifest:
+
+    "background": {
+      "scripts": ["node_modules/scriptchain/scriptchain.js", "background.js"],
+      "persistent": false
+    },
+
 That's it.
 
 License
