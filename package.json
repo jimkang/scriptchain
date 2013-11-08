@@ -1,0 +1,17 @@
+{
+  "name": "scriptchain",
+  "version": "0.1.2",
+  "description": "Helper for Chrome extensions that injects a chain of JavaScript files into a content page in sequence.",
+  "main": "scriptchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/jimkang/scriptchain",
+  "keywords": [
+    "Chrome",
+    "extension",
+    "tab"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT"
+}
